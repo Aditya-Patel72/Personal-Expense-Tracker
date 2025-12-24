@@ -40,8 +40,7 @@ expense-tracker/
 
 ## 🚀 How to Run
 1. Clone the repository  
-   ```bash
-   git clone https://github.com/Aditya-Patel72/Personal-Expense-Tracker.git
+   [git clone](https://github.com/Aditya-Patel72/Personal-Expense-Tracker.git)
    
 Open index.html in any modern browser
 
