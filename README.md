@@ -10,7 +10,9 @@ Students and professionals often struggle to track daily expenses, leading to po
 This project provides a simple solution to record transactions and monitor spending patterns.
 
 ---
+🔗 **Live Demo:** [Personal Expense Tracker](https://aditya-patel72.github.io/Personal-Expense-Tracker/)
 
+---
 ## 🛠 Technology Stack
 - HTML5  
 - CSS3  
